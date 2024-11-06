@@ -1,0 +1,101 @@
+Order ID,Product ID,Product,Product State,Selling Price,Product Cost,Quantity
+80801,101,Malapua,Bihar,300,250,21.0
+80802,102,Dhokla,Gujarat,575,90,19.0
+80803,103,Mysore pak,Karnataka,275,250,18.0
+80804,104,Modak,Maharashtra,250,185,10.0
+80805,105,Gajar ka halwa,Punjab,1250,150,9.0
+80806,106,Ghevar,Rajasthan,500,250,12.0
+80807,107,Jalebi,Uttar Pradesh,350,50,17.0
+80808,108,Peda,Uttar Pradesh,700,300,8.0
+80814,104,Modak,Maharashtra,250,185,46.0
+80828,104,Modak,Maharashtra,250,185,34.0
+80811,101,Malapua,Bihar,300,250,32.0
+80812,102,Dhokla,Gujarat,575,90,41.0
+80813,103,Mysore pak,Karnataka,275,250,25.0
+80861,104,Modak,Maharashtra,250,185,41.0
+80815,101,Malapua,Bihar,300,250,45.0
+80816,102,Dhokla,Gujarat,575,90,18.0
+80817,101,Malapua,Bihar,300,250,40.0
+80818,102,Dhokla,Gujarat,575,90,33.0
+80877,104,Modak,Maharashtra,250,185,17.0
+80885,104,Modak,Maharashtra,250,185,39.0
+80895,104,Modak,Maharashtra,250,185,11.0
+80810,110,Pani puri,Uttar Pradesh,20,5,100.5
+80820,110,Pani puri,Uttar Pradesh,20,5,15.0
+80822,110,Pani puri,Uttar Pradesh,20,5,44.0
+80823,110,Pani puri,Uttar Pradesh,20,5,42.0
+80826,102,Dhokla,Gujarat,575,90,11.0
+80827,103,Mysore pak,Karnataka,275,250,33.0
+80825,110,Pani puri,Uttar Pradesh,20,5,42.0
+80829,101,Malapua,Bihar,300,250,19.0
+80830,102,Dhokla,Gujarat,575,90,16.0
+80831,101,Malapua,Bihar,300,250,21.0
+80832,102,Dhokla,Gujarat,575,90,31.0
+80834,110,Pani puri,Uttar Pradesh,20,5,31.0
+80836,110,Pani puri,Uttar Pradesh,20,5,34.0
+80840,110,Pani puri,Uttar Pradesh,20,5,39.0
+80843,110,Pani puri,Uttar Pradesh,20,5,21.0
+80837,107,Jalebi,Uttar Pradesh,350,50,42.0
+80838,108,Peda,Uttar Pradesh,700,300,17.0
+80845,110,Pani puri,Uttar Pradesh,20,5,36.0
+80846,110,Pani puri,Uttar Pradesh,20,5,49.0
+80841,108,Peda,Uttar Pradesh,700,300,39.0
+80848,110,Pani puri,Uttar Pradesh,20,5,25.0
+80852,110,Pani puri,Uttar Pradesh,20,5,22.0
+80855,110,Pani puri,Uttar Pradesh,20,5,28.0
+80857,110,Pani puri,Uttar Pradesh,20,5,32.0
+80867,110,Pani puri,Uttar Pradesh,20,5,12.0
+80873,110,Pani puri,Uttar Pradesh,20,5,43.0
+80891,110,Pani puri,Uttar Pradesh,20,5,20.0
+80849,107,Jalebi,Uttar Pradesh,350,50,34.0
+80850,108,Peda,Uttar Pradesh,700,300,13.0
+80809,109,Rasgulla,West Bengal,45,25,20.0
+80819,109,Rasgulla,West Bengal,45,25,40.0
+80853,108,Peda,Uttar Pradesh,700,300,15.0
+80821,109,Rasgulla,West Bengal,45,25,22.0
+80824,109,Rasgulla,West Bengal,45,25,29.0
+80833,109,Rasgulla,West Bengal,45,25,24.0
+80835,109,Rasgulla,West Bengal,45,25,19.0
+80858,101,Malapua,Bihar,300,250,42.0
+80859,102,Dhokla,Gujarat,575,90,20.0
+80860,103,Mysore pak,Karnataka,275,250,40.0
+80839,109,Rasgulla,West Bengal,45,25,24.0
+80862,105,Gajar ka halwa,Punjab,1250,150,32.0
+80863,106,Ghevar,Rajasthan,500,250,14.0
+80864,107,Jalebi,Uttar Pradesh,350,50,25.0
+80865,108,Peda,Uttar Pradesh,700,300,44.0
+80842,109,Rasgulla,West Bengal,45,25,36.0
+80844,109,Rasgulla,West Bengal,45,25,44.0
+80868,105,Gajar ka halwa,Punjab,1250,150,49.0
+80869,106,Ghevar,Rajasthan,500,250,34.0
+80870,107,Jalebi,Uttar Pradesh,350,50,43.0
+80871,108,Peda,Uttar Pradesh,700,300,45.0
+80847,109,Rasgulla,West Bengal,45,25,11.0
+80851,109,Rasgulla,West Bengal,45,25,13.0
+80874,101,Malapua,Bihar,300,250,46.0
+80875,102,Dhokla,Gujarat,575,90,21.0
+80876,103,Mysore pak,Karnataka,275,250,23.0
+80854,109,Rasgulla,West Bengal,45,25,37.0
+80878,105,Gajar ka halwa,Punjab,1250,150,28.0
+80879,106,Ghevar,Rajasthan,500,250,32.0
+80880,107,Jalebi,Uttar Pradesh,350,50,27.0
+80881,108,Peda,Uttar Pradesh,700,300,13.0
+80882,101,Malapua,Bihar,300,250,18.0
+80883,102,Dhokla,Gujarat,575,90,32.0
+80884,103,Mysore pak,Karnataka,275,250,13.0
+80856,109,Rasgulla,West Bengal,45,25,31.0
+80886,105,Gajar ka halwa,Punjab,1250,150,27.0
+80887,106,Ghevar,Rajasthan,500,250,39.0
+80888,107,Jalebi,Uttar Pradesh,350,50,46.0
+80889,108,Peda,Uttar Pradesh,700,300,11.0
+80866,109,Rasgulla,West Bengal,45,25,27.0
+80872,109,Rasgulla,West Bengal,45,25,21.0
+80892,101,Malapua,Bihar,300,250,31.0
+80893,102,Dhokla,Gujarat,575,90,25.0
+80894,103,Mysore pak,Karnataka,275,250,14.0
+80890,109,Rasgulla,West Bengal,45,25,49.0
+80896,105,Gajar ka halwa,Punjab,1250,150,48.0
+80897,106,Ghevar,Rajasthan,500,250,14.0
+80898,107,Jalebi,Uttar Pradesh,350,50,28.0
+80899,108,Peda,Uttar Pradesh,700,300,12.0
+80900,109,Rasgulla,West Bengal,45,25,12.0
